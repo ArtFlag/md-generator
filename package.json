@@ -1,0 +1,24 @@
+{
+  "name": "md-generator",
+  "version": "1.0.0",
+  "description": "Generates markdown files",
+  "main": "md-generator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArthurFlageul/md-generator.git"
+  },
+  "author": "ArtFlag",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/ArthurFlageul/md-generator/issues"
+  },
+  "homepage": "https://github.com/ArthurFlageul/md-generator#readme",
+  "dependencies": {
+    "arg": "^5.0.0",
+    "sentencer": "^0.2.1",
+    "yargs": "^16.2.0"
+  }
+}
